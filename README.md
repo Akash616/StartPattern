@@ -1,11 +1,9 @@
 
-# Star Pattern 
+# Star Pattern - After being rejected from the interview for this pattern, I decided to create my own.
 
-# Only odd number is allowed
-# 0 and -1 not allowed
-# Number is >= 3
-
-## After being rejected from the interview for this pattern, I decided to create my own.
+- Only odd number is allowed
+- 0 and -1 not allowed
+- Number is >= 3
 
 ## Screenshots
 
