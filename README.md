@@ -4,6 +4,7 @@
 - Only odd number is allowed
 - 0 and -1 not allowed
 - Number is >= 3
+- Time limit 1 hour
 
 ## Screenshots
 
