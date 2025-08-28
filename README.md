@@ -1,5 +1,5 @@
 
-# Star Pattern - After being rejected from the interview for this pattern, I decided to create my own.
+# Star Pattern
 
 - Only odd number is allowed
 - 0 and -1 not allowed
